@@ -6,8 +6,7 @@ Professional portfolio website showcasing expertise in Java & Python Full Stack 
 
 **Repository**: personal-portfolio  
 **Hosting**: GitHub Pages  
-**URL**: https://your-username.github.io/personal-portfolio
-
+**URL**:  https://shriram1206.github.io/personal-portfolio/
 ## Overview
 
 This repository contains the source code for a responsive portfolio website built to demonstrate technical skills, professional experience, and project achievements in software development and artificial intelligence.
