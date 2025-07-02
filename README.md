@@ -1,12 +1,15 @@
 # SHRIRAM M - Personal Portfolio
 
+![GitHub Pages](https://img.shields.io/github/deployments/shriram1206/personal-portfolio/github-pages?label=GitHub%20Pages&logo=github)
+![GitHub](https://img.shields.io/github/license/shriram1206/personal-portfolio)
+
 Professional portfolio website showcasing expertise in Java & Python Full Stack Development and AI/ML technologies.
 
 ## Repository Information
 
 **Repository**: personal-portfolio  
 **Hosting**: GitHub Pages  
-**URL**: https://your-username.github.io/personal-portfolio
+**URL**: https://shriram1206.github.io/personal-portfolio
 
 ## Overview
 
@@ -21,13 +24,25 @@ This repository contains the source code for a responsive portfolio website buil
 
 ## Deployment Instructions
 
-1. Go to repository **Settings**
-2. Scroll to **Pages** section
-3. Source: **Deploy from a branch**
-4. Branch: **main** (or master)
-5. Save
+### Automatic Deployment
+This repository is configured for automatic GitHub Pages deployment. Any changes pushed to the main branch will automatically deploy to: `https://shriram1206.github.io/personal-portfolio`
 
-Your site will be live at: `https://your-username.github.io/personal-portfolio`
+### Manual GitHub Pages Setup (if needed)
+1. Go to repository **Settings**
+2. Scroll to **Pages** section in the left sidebar
+3. Under **Source**, select: **Deploy from a branch**
+4. Choose **Branch**: `main` and **Folder**: `/ (root)`
+5. Click **Save**
+
+The site will be available at: `https://shriram1206.github.io/personal-portfolio`
+
+### Local Development
+To run locally:
+```bash
+# Simply open index.html in a web browser, or use a local server:
+python -m http.server 8000
+# Then visit http://localhost:8000
+```
 
 ## Professional Highlights
 
